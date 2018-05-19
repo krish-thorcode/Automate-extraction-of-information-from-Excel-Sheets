@@ -86,6 +86,7 @@ for key in out_dict:
             output_sheet.cell(row = i, column = checking_slot).value = '-'
     i += 1
 
+# the following four lines assume that the input xlsx file has no empty fields
 output_sheet.column_dimensions['B'].width = (len(output_sheet['B2'].value) + 2) * 1.2
 output_sheet.column_dimensions['C'].width = (len(output_sheet['C2'].value) + 2) * 1.2
 output_sheet.column_dimensions['D'].width = (len(output_sheet['D2'].value) + 2) * 1.2
