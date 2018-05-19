@@ -3,7 +3,7 @@ Automating the boring extraction of information from huge excel files of VIT tim
 
 *3rd party modules:*
 
-*Python third-party modules required:* openpyxl
+*Python third-party modules required:* `openpyxl`
 
 *Install openpyxl using python package manager*: `pip install openpyxl`
 
