@@ -1,7 +1,7 @@
 # Handling-Excel-files-with-Python
 Automating the boring extraction of information from huge excel files of VIT time table
 
-*3rd party modules*
+*3rd party modules:*
 
 *Python third-party modules required:* openpyxl
 
