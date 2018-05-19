@@ -12,7 +12,7 @@ Automating the boring extraction of information from huge excel files of VIT tim
 *Usage:*
 1. for both summer_sem.py and summer_sem_updated.py
 
-  ----------these two scripts assume that the sheet in the input xlsx file has non empty values atleast in 2nd row--------
+  ----------these two scripts assume that the sheet in the input xlsx file has non empty values atleast in 2nd row, so the sample_summer_sems.xslx won't run with this script--------
 
   python `<python script name with extension>` `<xlsx file name with extension>` `<sheet name inside xlsx file>` `<day required>`
 
