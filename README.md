@@ -36,4 +36,3 @@ Automating the boring extraction of information from huge excel files of VIT tim
 
   example:
   python `normal_sem_updated.py` `sample_normal_sem.xlsx` `renamed_sheet` all
------------------------------------------------------------------------------
