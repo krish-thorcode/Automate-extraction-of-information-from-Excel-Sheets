@@ -1,15 +1,12 @@
 # Handling-Excel-files-with-Python
 Automating the boring extraction of information from huge excel files of VIT time table
 
----------*3rd party modules*------------
+*3rd party modules*
 *Python third-party modules required:* openpyxl
 *Install openpyxl using python package manager*: `pip install openpyxl`
 *Else, if you are using Anaconda, then install using conda*: `conda install -c anaconda openpyxl`
-------------------------------------------
 
-
-
---------------*Usage:*--------------
+*Usage:*
 1. for both summer_sem.py and summer_sem_updated.py
 
   ----------these two scripts assume that the sheet in the input xlsx file has non empty values atleast in 2nd row--------
