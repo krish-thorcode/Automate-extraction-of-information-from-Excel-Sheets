@@ -12,7 +12,7 @@ Automating the boring extraction of information from huge excel files of VIT tim
   python `<python script name with extension>` `<xlsx file name with extension>` `<sheet name inside xlsx file>` `<day required>`
 
   example:
-  python summer_sem_updated.py sample_summer_sem.xlsx 'Input Data' Tuesday
+  python `summer_sem_updated.py` `sample_summer_sem.xlsx` `'Input Data'` `Tuesday`
 
 2. for both normal_sem.py and normal_sem_updated.py
 
@@ -23,11 +23,11 @@ Automating the boring extraction of information from huge excel files of VIT tim
   python `<python script name with extension>` `<xlsx file name with extension>` `<sheet name inside xlsx file>` `<day required>`
 
   example:
-  python normal_sem_updated.py sample_normal_sem.xlsx renamed_sheet Monday
+  python `normal_sem_updated.py` `sample_normal_sem.xlsx` `renamed_sheet` `Monday`
 
   ----for all day_slots
-  
+
   python `<python script name with extension>` `<xlsx file name with extension>` `<sheet name inside xlsx file>` all
 
   example:
-  python normal_sem_updated.py sample_normal_sem.xlsx renamed_sheet all
+  python `normal_sem_updated.py` `sample_normal_sem.xlsx` `renamed_sheet` all
