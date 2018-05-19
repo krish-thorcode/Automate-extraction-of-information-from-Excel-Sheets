@@ -30,7 +30,7 @@ Automating the boring extraction of information from huge excel files of VIT tim
   example:
   python `normal_sem_updated.py` `sample_normal_sem.xlsx` `renamed_sheet` `Monday`
 
-  ----for all day_slots
+  ----for all days
 
   python `<python script name with extension>` `<xlsx file name with extension>` `<sheet name inside xlsx file>` all
 
