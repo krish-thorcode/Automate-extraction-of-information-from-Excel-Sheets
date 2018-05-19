@@ -19,12 +19,14 @@ Automating the boring extraction of information from huge excel files of VIT tim
   -----------these two scripts can run on both empty as well as non empty sheets-----------
 
   ----for a specific day
+
   python `<python script name with extension>` `<xlsx file name with extension>` `<sheet name inside xlsx file>` `<day required>`
 
   example:
   python normal_sem_updated.py sample_normal_sem.xlsx renamed_sheet Monday
 
   ----for all day_slots
+  
   python `<python script name with extension>` `<xlsx file name with extension>` `<sheet name inside xlsx file>` all
 
   example:
