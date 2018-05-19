@@ -2,8 +2,11 @@
 Automating the boring extraction of information from huge excel files of VIT time table
 
 *3rd party modules*
+
 *Python third-party modules required:* openpyxl
+
 *Install openpyxl using python package manager*: `pip install openpyxl`
+
 *Else, if you are using Anaconda, then install using conda*: `conda install -c anaconda openpyxl`
 
 *Usage:*
